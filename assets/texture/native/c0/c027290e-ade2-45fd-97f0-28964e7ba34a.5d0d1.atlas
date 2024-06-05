@@ -1,0 +1,62 @@
+
+death.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 18
+  size: 351, 235
+  orig: 351, 235
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 553, 117
+  size: 48, 136
+  orig: 50, 138
+  offset: 1, 1
+  index: -1
+linghun
+  rotate: false
+  xy: 355, 22
+  size: 157, 231
+  orig: 157, 231
+  offset: 0, 0
+  index: -1
+naozhong
+  rotate: false
+  xy: 553, 76
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+nz
+  rotate: false
+  xy: 603, 166
+  size: 75, 87
+  orig: 75, 87
+  offset: 0, 0
+  index: -1
+weimao
+  rotate: false
+  xy: 598, 3
+  size: 27, 112
+  orig: 29, 114
+  offset: 1, 1
+  index: -1
+xiuhong
+  rotate: false
+  xy: 514, 74
+  size: 37, 179
+  orig: 39, 181
+  offset: 1, 1
+  index: -1
+zui
+  rotate: true
+  xy: 514, 2
+  size: 70, 82
+  orig: 70, 82
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+shibai.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 74, 358
+  orig: 74, 358
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 104, 101
+  size: 226, 71
+  orig: 228, 73
+  offset: 1, 1
+  index: -1
+eyes1
+  rotate: false
+  xy: 177, 79
+  size: 194, 39
+  orig: 196, 41
+  offset: 1, 1
+  index: -1
+failed_flag
+  rotate: true
+  xy: 2, 329
+  size: 680, 176
+  orig: 680, 176
+  offset: 0, 0
+  index: -1
+failed_word
+  rotate: true
+  xy: 2, 78
+  size: 249, 69
+  orig: 249, 69
+  offset: 0, 0
+  index: -1
+saihong
+  rotate: false
+  xy: 180, 359
+  size: 440, 650
+  orig: 440, 651
+  offset: 0, 1
+  index: -1
+yanlei
+  rotate: false
+  xy: 177, 120
+  size: 71, 207
+  orig: 73, 209
+  offset: 1, 1
+  index: -1
+yanlei1
+  rotate: true
+  xy: 362, 14
+  size: 63, 112
+  orig: 65, 114
+  offset: 1, 1
+  index: -1
+youmeimao
+  rotate: true
+  xy: 73, 95
+  size: 232, 29
+  orig: 234, 31
+  offset: 1, 1
+  index: -1
+zuiba
+  rotate: true
+  xy: 250, 253
+  size: 104, 53
+  orig: 106, 55
+  offset: 1, 1
+  index: -1
